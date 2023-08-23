@@ -1,1 +1,3 @@
-prueba
+const prueba = () => {
+  return "Hola";
+};
