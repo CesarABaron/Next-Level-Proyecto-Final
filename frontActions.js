@@ -1,3 +1,0 @@
-const holi = ()=>{
-    return "hello"
-};
