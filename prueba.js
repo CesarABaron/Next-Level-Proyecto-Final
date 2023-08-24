@@ -3,5 +3,5 @@ const prueba = () => {
 };
 
 const prueba2 = () => {
-  return "hola";
+  return "hola mundo";
 };
