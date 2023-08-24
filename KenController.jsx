@@ -5,6 +5,7 @@ const KenController = () => {
     <div>
       <h1>Soy unaprueba</h1>
       <h2>soy una prueba3</h2>
+      <h2>dasdasdasdasdasdasdasdasd</h2>
     </div>
   );
 };
